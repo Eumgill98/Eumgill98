@@ -15,4 +15,8 @@
  </p>
  <hr>
  
+<br>
+<p>🎈블로그 주소</p>
+<a href="https://eumgill98.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
+
  
