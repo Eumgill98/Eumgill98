@@ -36,7 +36,7 @@ link : <a href="https://solved.ac/profile/wjdghcks6735"><img src="https://img.sh
 <p><a href ='https://github.com/Eumgill98/ict_project'>link</p>
 
 <h2>🤝Awards and Honors</h2>
-<p>1. 국립공원공단 이사장 수상</p>
+<p>1. 국립공원공단 이사장상 수상</p>
 <p>2. 동북권 ICT 공공데이터 활용 지역문제 해결 해커톤 최우수상 수상 🔗<a = href = 'https://www.kbmaeil.com/news/articleView.html?idxno=940194'>link</p>
 <p>3. 빅리더 AI 아카데미 대상 수상</p>
 <p>4. 2022년 KDATA 데이터청년캠퍼스 우수 프로젝트 수상 (장려상)</p>
