@@ -29,7 +29,7 @@ link : <a href="https://solved.ac/profile/wjdghcks6735"><img src="https://img.sh
 <hr>
 <h2>🚩Project</h2>
 
-<h3>✅국립공원공단(Korea National Park Service, KNPS)</h3> : 인공위성과 AI를 활용한 기후변화 모니터링 시스템 Phenodigm 
+<h3>✅국립공원공단(Korea National Park Service, KNPS)<br> : 인공위성과 AI를 활용한 기후변화 모니터링 시스템Phenodigm </h3>
 <p><a href ='https://github.com/Eumgill98/knps_phenology-1'>link</p>
 
 <h3>✅맞춤형 통합 복지 플랫폼 DAON</h3> : 자연어 처리와 유사도 측정을 이용한 맞춤형 통합 복지 플랫폼 
