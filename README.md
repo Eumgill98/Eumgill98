@@ -41,22 +41,29 @@ link : <a href="https://solved.ac/profile/wjdghcks6735"><img src="https://img.sh
       <a href='https://github.com/Eumgill98/knps_phenology-1'><img src='https://github.com/Eumgill98/knps_phenology-1/blob/main/logo/phenodigm_logo.png?raw=true'></a>
     </td>
     <td align="center" width="400px">
+      <br/><br/><br/>
       <a href='https://www.kbmaeil.com/news/articleView.html?idxno=940194'><img src='https://ictcog.or.kr/images/logo.png'></a>
       <a href='https://www.kbmaeil.com/news/articleView.html?idxno=940194'>동북권 ICT 공공데이터 활용 지역문제 해결 해커톤<a><br/><br/>
       <a href='https://github.com/Eumgill98/DAON'>✅맞춤형 통합 복지 플랫폼 DAON</a>
       <a><br/>: 자연어 처리와 유사도 측정을<br/> 이용한 맞춤형 통합 복지 플랫폼</a>
-      <img src ='https://raw.githubusercontent.com/Eumgill98/ict_project/main/daon/daon/static/map/daon.png'>
+      <a href='https://github.com/Eumgill98/DAON'><img src ='https://raw.githubusercontent.com/Eumgill98/ict_project/main/daon/daon/static/map/daon.png'><a>
     </td>
   </tr>
 </table>
 
-
 <h2>👍Personal Project</h2>
-<h3>✅ML - making Machine learning by Python</h3>
-<p><a href ='https://github.com/Eumgill98/ML'>link</p>
-  
-<h3>✅DL - making Deep learning by Python, Pytorch</h3>
-<p><a href ='https://github.com/Eumgill98/DL'>link</p>
+<table>
+  <tr height="160px">
+    <td align="center" width="200px">
+      <a>✅ML - making Machine Learning by Python</a>
+      <p><a href='https://github.com/Eumgill98/ML'>link</p>
+    </td>
+    <td align="center" width="200px">
+      <a>✅DL - making Deep learning by Python, Pytorch</a>
+      <p><a href='https://github.com/Eumgill98/DL'>link</p>
+    </td> 
+  </tr>
+</table>
   
 <h2>🤝Awards and Honors</h2>
 <p>1. 국립공원공단 이사장상 수상</p>
