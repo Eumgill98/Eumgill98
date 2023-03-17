@@ -29,14 +29,29 @@ link : <a href="https://solved.ac/profile/wjdghcks6735"><img src="https://img.sh
 <hr>
 <h2>🚩Project</h2>
 
-<h3>✅국립공원공단(Korea National Park Service, KNPS)<br> : 인공위성과 AI를 활용한 기후변화 모니터링 시스템Phenodigm </h3>
-<p><a href ='https://github.com/Eumgill98/knps_phenology-1'>link</p>
+<table>
+  <tr height="160px">
+    <td align="center" width="400px">
+      <img src='https://www.knps.or.kr/portal/images/main2017/h_logo.png'>
+      <br>
+      <a href='https://www.knps.or.kr/portal/main.do'>✅국립공원공단</a>
+      <p>(Korea National Park Service, KNPS)<p>
+      <br>
+      <a>인공위성과 AI를 활용한<br/> 기후변화 모니터링 시스템<br/><a href='https://github.com/Eumgill98/knps_phenology-1'> Phenodigm</a></a>
+      <a href='https://github.com/Eumgill98/knps_phenology-1'><img src='https://github.com/Eumgill98/knps_phenology-1/blob/main/logo/phenodigm_logo.png?raw=true'></a>
+    </td>
+    <td align="center" width="400px">
+      <a href='https://www.kbmaeil.com/news/articleView.html?idxno=940194'><img src='https://ictcog.or.kr/images/logo.png'></a>
+      <a href='https://www.kbmaeil.com/news/articleView.html?idxno=940194'>동북권 ICT 공공데이터 활용 지역문제 해결 해커톤<a><br/><br/>
+      <a href='https://github.com/Eumgill98/DAON'>✅맞춤형 통합 복지 플랫폼 DAON</a>
+      <a><br/>: 자연어 처리와 유사도 측정을<br/> 이용한 맞춤형 통합 복지 플랫폼</a>
+      <img src ='https://raw.githubusercontent.com/Eumgill98/ict_project/main/daon/daon/static/map/daon.png'>
+    </td>
+  </tr>
+</table>
 
-<h3>✅맞춤형 통합 복지 플랫폼 DAON</h3> : 자연어 처리와 유사도 측정을 이용한 맞춤형 통합 복지 플랫폼 
-<p><a href ='https://github.com/Eumgill98/ict_project'>link</p>
-  
+
 <h2>👍Personal Project</h2>
-
 <h3>✅ML - making Machine learning by Python</h3>
 <p><a href ='https://github.com/Eumgill98/ML'>link</p>
   
