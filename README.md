@@ -19,10 +19,10 @@
 ![Eumgill98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eumgill98&show_icons=true&theme=highcontrast)
 <hr>
 <p>🎈Blog</p>
-link : <a href="https://eumgill98.tistory.com/"><img src="https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&logoColor=black"></a>
+<a href="https://eumgill98.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"></a>
 <hr>
 <p> ✅solved.ac</p>
-link : <a href="https://solved.ac/profile/wjdghcks6735"><img src="https://img.shields.io/badge/Python-white?style=flat-square&logo=Python&logoColor=#3776AB"></a>
+<a href="https://solved.ac/profile/wjdghcks6735"><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=#3776AB"></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdghcks6735)](https://solved.ac/wjdghcks6735)
 
@@ -56,11 +56,11 @@ link : <a href="https://solved.ac/profile/wjdghcks6735"><img src="https://img.sh
   <tr height="160px">
     <td align="center" width="200px">
       <a>✅ML - making Machine Learning by Python</a>
-      <p><a href='https://github.com/Eumgill98/ML'>link</p>
+      <p><a href='https://github.com/Eumgill98/ML'>🖇️</p>
     </td>
     <td align="center" width="200px">
       <a>✅DL - making Deep learning by Python, Pytorch</a>
-      <p><a href='https://github.com/Eumgill98/DL'>link</p>
+      <p><a href='https://github.com/Eumgill98/DL'>🖇️</p>
     </td> 
   </tr>
 </table>
