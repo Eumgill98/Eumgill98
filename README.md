@@ -55,10 +55,6 @@
 <table>
   <tr height="160px">
     <td align="center" width="200px">
-      <a>✅ML - making Machine Learning by Python</a>
-      <p><a href='https://github.com/Eumgill98/ML'>🖇️</p>
-    </td>
-    <td align="center" width="200px">
       <a>✅DL - making Deep learning by Python, Pytorch</a>
       <p><a href='https://github.com/Eumgill98/DL'>🖇️</p>
     </td> 
