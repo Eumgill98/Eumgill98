@@ -32,6 +32,11 @@
 <table>
   <tr height="160px">
     <td align="center" width="400px">
+      <a href='https://github.com/Eumgill98/Meotandard'><img src='https://github.com/Eumgill98/Meotandard/raw/main/resource/logo.png'></a>
+      <br>
+      <a>이미지를 활용한<br/> 의류검색 및 가상피팅 서비스<br/><a href='https://github.com/Eumgill98/Meotandard'> 멋탠다드 - Meotandard</a></a>
+    </td>
+    <td align="center" width="400px">
       <img src='https://www.knps.or.kr/portal/images/main2017/h_logo.png'>
       <br>
       <a href='https://www.knps.or.kr/portal/main.do'>✅국립공원공단</a>
@@ -42,7 +47,7 @@
     </td>
     <td align="center" width="400px">
       <br/><br/><br/>
-      <a href='https://www.kbmaeil.com/news/articleView.html?idxno=940194'><img src='https://ictcog.or.kr/images/logo.png'></a>
+      <a href='https://www.kbmaeil.com/news/articleView.html?idxno=940194'><img src='https://lms.ictcog.or.kr/images/ogimage.jpg'></a>
       <a href='https://www.kbmaeil.com/news/articleView.html?idxno=940194'>동북권 ICT 공공데이터 활용 지역문제 해결 해커톤<a><br/><br/>
       <a href='https://github.com/Eumgill98/DAON'>✅맞춤형 통합 복지 플랫폼 DAON</a>
       <a><br/>: 자연어 처리와 유사도 측정을<br/> 이용한 맞춤형 통합 복지 플랫폼</a>
@@ -55,8 +60,8 @@
 <table>
   <tr height="160px">
     <td align="center" width="200px">
-      <a>✅DL - making Deep learning by Python, Pytorch</a>
-      <p><a href='https://github.com/Eumgill98/DL'>🖇️</p>
+      ✅Deeplearning Modeling  <br/> 
+      <a href="https://github.com/EumgillAI" target="_blank"><img src="https://img.shields.io/badge/GiHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
     </td> 
   </tr>
 </table>
