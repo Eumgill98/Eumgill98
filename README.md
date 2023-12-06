@@ -67,7 +67,9 @@
 </table>
   
 <h2>🤝Awards and Honors</h2>
-<p>1. 국립공원공단 이사장상 수상</p>
-<p>2. 동북권 ICT 공공데이터 활용 지역문제 해결 해커톤 최우수상 수상 🔗<a = href = 'https://www.kbmaeil.com/news/articleView.html?idxno=940194'>link</p>
-<p>3. 빅리더 AI 아카데미 대상 수상</p>
-<p>4. 2022년 KDATA 데이터청년캠퍼스 우수 프로젝트 수상 (장려상)</p>
+<p>1. 2023 ETRI 자율성장 인공지능 경진대회 우수상 수상</p>
+<p>2. 국방AI 경진대회 특별상 수상</p>
+<p>3. 국립공원공단 이사장상 수상</p>
+<p>4. 동북권 ICT 공공데이터 활용 지역문제 해결 해커톤 최우수상 수상 🔗<a = href = 'https://www.kbmaeil.com/news/articleView.html?idxno=940194'>link</p>
+<p>5. 빅리더 AI 아카데미 대상 수상</p>
+<p>6. 2022년 KDATA 데이터청년캠퍼스 우수 프로젝트 수상 (장려상)</p>
