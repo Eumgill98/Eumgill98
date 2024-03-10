@@ -15,31 +15,36 @@
    </p>
  </div>
 
-### 활동
+<p>🎈Blog</p>
+<a href="https://eumgill98.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"></a>  
 
-|활동|기간|
-|:--:|:--:|
-|42경산(42Gyeongsan) 카뎃(Cadet)|2024.03~|
-|부스트캠프 AI Tech (CV)**[네이버 커넥트재단]**|2023.03~2023.08|
-|데이콘 데이크루 4기|2023.01~2023.02|
-|Korea Vision & Robotics **(KOVI)**|2022.11~|
-|삼성 소프트웨어 개발자 커뮤니티|2022.11~|
-|빅리더 AI 아카데미 **[KDATA]**|2022.06~2022.08|
+### 🐱TEAM
+
+|활동|ENG|기간|
+|:--|:--|:--|
+|42경산 카뎃|42Gyeongsan Cadet|2024.03~|
+|부스트캠프 AI Tech (CV)**[네이버 커넥트재단]**|Boostcamp AI Tech(CV) **[NAVER CONNECT]**|2023.03~2023.08|
+|데이콘 데이크루 4기|DACON DACrew 4|2023.01~2023.02|
+|Korea Vision & Robotics **(KOVI)**|Korea Vision & Robotics **(KOVI)**|2022.11~|
+|삼성 소프트웨어 개발자 커뮤니티|SAMSUNG Software Developer Community|2022.11~|
+|빅리더 AI 아카데미 **[KDATA]**|Big-leader AI academy|2022.06~2022.08|  
+
+
+### 🤝Awards and Honors
+|대회|ENG|
+|:--|:--|
+|2023 ETRI 자율성장 인공지능 경진대회 우수상 수상|2023 ETRI Autonomous Growth AI Competition Excellence(3rd) Award|
+|국방AI 경진대회 특별상 수상|Defense AI Competition Special Award|
+|국립공원공단 이사장상 수상|Korea National Park Service Director's Award|
+|동북권 ICT 공공데이터 활용 지역문제 해결 해커톤 최우수상 수상|CT Public Data Utilization Regional Problem Solving Hackathon Grand Prize|
+|빅리더 AI 아카데미 대상 수상|Big Leader AI Academy Grand Prize|
+|2022년 KDATA 데이터청년캠퍼스 우수 프로젝트 수상 (장려상)|2022 KDATA Data Youth Campus Outstanding Project|  
 
 
 ![Eumgill98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eumgill98&show_icons=true&theme=highcontrast)
-<hr>
-<p>🎈Blog</p>
-<a href="https://eumgill98.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"></a>
-<hr>
-<p> ✅solved.ac</p>
-<a href="https://solved.ac/profile/wjdghcks6735"><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=#3776AB"></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdghcks6735)](https://solved.ac/wjdghcks6735)  
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdghcks6735)](https://solved.ac/wjdghcks6735)
-
-<hr>
-<h2>🚩Project</h2>
-
+## 🚩Project
 <table>
   <tr height="160px">
     <td align="center" width="400px">
@@ -77,10 +82,4 @@
   </tr>
 </table>
   
-<h2>🤝Awards and Honors</h2>
-<p>1. 2023 ETRI 자율성장 인공지능 경진대회 우수상 수상</p>
-<p>2. 국방AI 경진대회 특별상 수상</p>
-<p>3. 국립공원공단 이사장상 수상</p>
-<p>4. 동북권 ICT 공공데이터 활용 지역문제 해결 해커톤 최우수상 수상 🔗<a = href = 'https://www.kbmaeil.com/news/articleView.html?idxno=940194'>link</p>
-<p>5. 빅리더 AI 아카데미 대상 수상</p>
-<p>6. 2022년 KDATA 데이터청년캠퍼스 우수 프로젝트 수상 (장려상)</p>
+
