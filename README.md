@@ -15,6 +15,17 @@
    </p>
  </div>
 
+### 활동
+
+|활동|기간|
+|:--:|:--:|
+|42경산(42Gyeongsan) 카뎃(Cadet)|2024.03~|
+|부스트캠프 AI Tech (CV)**[네이버 커넥트재단]**|2023.03~2023.08|
+|데이콘 데이크루 4기|2023.01~2023.02|
+|Korea Vision & Robotics **(KOVI)**|2022.11~|
+|삼성 소프트웨어 개발자 커뮤니티|2022.11~|
+|빅리더 AI 아카데미 **[KDATA]**|2022.06~2022.08|
+
 
 ![Eumgill98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eumgill98&show_icons=true&theme=highcontrast)
 <hr>
