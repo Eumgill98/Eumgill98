@@ -1,5 +1,15 @@
 
-<hr>
+
+<h2>👍Deeplearning Modeling </h2>
+<table>
+  <tr height="160px">
+    <td align="center" width="200px">
+      ✅Deeplearning Modeling  <br/> 
+      <a href="https://github.com/EumgillAI" target="_blank"><img src="https://img.shields.io/badge/GiHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+    </td> 
+  </tr>
+</table>
+  
 <h3>Stack🚩<h3>
 
 <div>
@@ -73,14 +83,5 @@
   </tr>
 </table>
 
-<h2>👍Personal Project</h2>
-<table>
-  <tr height="160px">
-    <td align="center" width="200px">
-      ✅Deeplearning Modeling  <br/> 
-      <a href="https://github.com/EumgillAI" target="_blank"><img src="https://img.shields.io/badge/GiHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-    </td> 
-  </tr>
-</table>
-  
+
 
