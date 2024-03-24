@@ -16,8 +16,9 @@
  </div>
 
 <p>🎈Blog</p>
-<a href="https://eumgill98.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"></a>  
-
+<a href="https://eumgill98.tistory.com/"><img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=#000000"></a>  
+<a href="https://velog.io/@wjdghcks6735/posts"><img src="https://img.shields.io/badge/Velog-black?style=flat-square&logo=Velog&logoColor=#20C997"></a>
+  
 ### 🐱TEAM
 
 |활동|ENG|기간|
