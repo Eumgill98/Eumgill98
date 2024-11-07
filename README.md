@@ -44,6 +44,7 @@
 ### 🤝Awards and Honors
 |대회|ENG|
 |:--|:--|
+|2024 ETRI 자율성장 인공지능 경진대회 우수상 수상|2024 ETRI Autonomous Growth AI Competition Excellence(3rd) Award|
 |2023 ETRI 자율성장 인공지능 경진대회 우수상 수상|2023 ETRI Autonomous Growth AI Competition Excellence(3rd) Award|
 |국방AI 경진대회 특별상 수상|Defense AI Competition Special Award|
 |국립공원공단 이사장상 수상|Korea National Park Service Director's Award|
