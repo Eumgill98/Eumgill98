@@ -53,7 +53,6 @@
 |2022년 KDATA 데이터청년캠퍼스 우수 프로젝트 수상 (장려상)|2022 KDATA Data Youth Campus Outstanding Project|  
 
 
-![Eumgill98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eumgill98&show_icons=true&theme=highcontrast)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wjdghcks6735)](https://solved.ac/wjdghcks6735)  
 
 ## 🚩Project
